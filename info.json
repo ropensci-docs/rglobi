@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2de3d722645d1a0cacf8069361b3cc974ed0850a",
+    "author": "jhpoelen <jhpoelen@xs4all.nl>",
+    "time": "2021-05-19 18:56:41",
+    "files": 2,
+    "merge": false,
+    "message": "prepare for v0.2.24 release\n"
+  },
+  "remote": "https://github.com/ropensci/rglobi",
+  "pkg": "rglobi"
+}
