@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5826c04f147149dfb1481a2eac2246e2de8cfbb5",
+    "author": "Jorrit Poelen <jhpoelen+git@jhpoelen.nl>",
+    "time": "2026-10-10T17:44:01Z",
+    "files": 2,
+    "merge": false,
+    "message": "update news and cran comments\n"
+  },
+  "repo": "https://github.com/ropensci/rglobi",
+  "pkg": "rglobi",
+  "time": "2026-11-07T12:53:56Z"
+}
